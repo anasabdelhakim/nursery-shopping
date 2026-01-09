@@ -8,7 +8,7 @@ This project was completed as a **final graded assignment** and demonstrates com
 ## 🚀 Live Demo
 
 🔗 **Demo URL:**  
-https://your-live-demo-link-here
+https://nursery-shopping-q3d3t9ti6-anasabdelhakims-projects.vercel.app/
 
 ---
 
